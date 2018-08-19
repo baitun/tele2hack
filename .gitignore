@@ -1,3 +1,5 @@
-*.txt
+# *.txt
 .node_modules
 DATA
+all_income.txt
+data_train2.txt
