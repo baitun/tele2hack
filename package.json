@@ -1,0 +1,12 @@
+{
+  "name": "tele2hack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "sentiment": "^5.0.1"
+  }
+}
