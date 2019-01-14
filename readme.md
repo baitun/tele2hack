@@ -10,4 +10,5 @@
 
 # Решения других участников
 
-- https://github.com/generall/tele2_hack
+* https://github.com/generall/tele2_hack
+* https://github.com/AlexandrPolyakov/Tele2Hack
